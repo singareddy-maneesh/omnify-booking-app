@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Mac and Linux system files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Test output
+.coverage
+htmlcov/
+pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# GitHub Codespaces
+.devcontainer/
