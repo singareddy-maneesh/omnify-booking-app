@@ -24,8 +24,8 @@ A backend service built using FastAPI that handles class bookings, client regist
 
 1. **Clone the repository**
 
-git clone https://github.com/singareddy-maneesh/omnify-booking-app
-cd omnify-booking-app
+    git clone https://github.com/singareddy-maneesh/omnify-booking-app
+    cd omnify-booking-app
 
 2. **Create and Activate Virtual Environment**
 
@@ -34,17 +34,17 @@ cd omnify-booking-app
 
 3. **Install Dependencies**
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. **Run the Applications**
 
-uvicorn app.main:app --reload
+    uvicorn app.main:app --reload
 
 5. **Access API Documentation**
 
-Open in Browser
-Swagger UI: http://127.0.0.1:8000/docs
-ReDoc: http://127.0.0.1:8000/redoc
+    Open in Browser
+    Swagger UI: http://127.0.0.1:8000/docs
+    ReDoc: http://127.0.0.1:8000/redoc
 
 
 ## Postman  API collection  
@@ -294,5 +294,5 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 
 ## Author
-Singareddy Maneesh
-GitHub: @singareddy-maneesh
+    Singareddy Maneesh  
+    GitHub: @singareddy-maneesh
