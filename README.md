@@ -29,15 +29,8 @@ cd omnify-booking-app
 
 2. **Create and Activate Virtual Environment**
 
-# Create virtual environment
-python -m venv venv
-
-# Activate
-# Windows
-venv\Scripts\activate
-
-# Mac/Linux
-source venv/bin/activate
+    python -m venv venv
+    venv\Scripts\activate
 
 3. **Install Dependencies**
 
@@ -56,7 +49,7 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 ## Postman  API collection  
 
-1. # ROOT API: 
+1. **ROOT API**: 
 
     Method : GET
 
@@ -66,7 +59,7 @@ ReDoc: http://127.0.0.1:8000/redoc
 
     curl --location 'http://127.0.0.1:8000/'
 
-2. # Client Signup API: 
+2. **Client Signup API**: 
 
     Method : POST
 
@@ -92,7 +85,7 @@ ReDoc: http://127.0.0.1:8000/redoc
     }'
 
 
-3. # Client login API: 
+3. **Client login API**: 
 
     Method : POST
 
