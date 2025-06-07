@@ -112,7 +112,7 @@ ReDoc: http://127.0.0.1:8000/redoc
     }'
 
 
-4. # Instructor Signup API: 
+4. **Instructor Signup API**: 
 
     Method : POST
 
@@ -139,7 +139,7 @@ ReDoc: http://127.0.0.1:8000/redoc
     }'
 
 
-5. # Instructor login API: 
+5. **Instructor login API**: 
 
     Method : POST
 
@@ -167,7 +167,7 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 
 
-6. # Create class API: 
+6. **Create class API**: 
 
     Method : POST
 
@@ -201,7 +201,7 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 
 
-7. # Get classes API: 
+7.  **Get classes API**: 
 
     Method : GET
 
@@ -237,7 +237,7 @@ ReDoc: http://127.0.0.1:8000/redoc
     curl --location 'http://127.0.0.1:8000/classes/?page_number=1&page_size=10&timezone=America%2FNew_York' \
     --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0aW5zdHJ1Y3RvckB5b3BtYWlsLmNvbSIsInJvbGUiOiJpbnN0cnVjdG9yIiwiZXhwIjoxNzQ5MzA0ODM1fQ.YsFyXquyOffkekYDVSD4eytir7WVFxpXZU2S4SxJMH0'
 
-8. # POST book class API: 
+8. **POST book class API**: 
 
     Method : POST
 
@@ -262,7 +262,7 @@ ReDoc: http://127.0.0.1:8000/redoc
     }'
 
 
-9. # GET bookings API: 
+9. **GET bookings API**: 
 
     Method : GET
 
